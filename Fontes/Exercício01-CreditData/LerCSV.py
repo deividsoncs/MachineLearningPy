@@ -2,6 +2,7 @@
 """
 Exercícios do curso da Udemy Machine Learning e Data Mining
 Calixto
+
 """
 
 import pandas as pd 
